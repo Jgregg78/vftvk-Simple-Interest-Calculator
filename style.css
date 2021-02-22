@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {background-color:black; font:arial; color:white}
 h1{color:grey; font:verdana;}
 .maindiv{background-color:white; color:black; width:370px;
@@ -9,3 +10,13 @@ mark {
   margin-left: auto;
   margin-right: auto;
 }
+=======
+body {background-color:black; font:arial; color:white; }
+h1{color:grey; font:verdana;}
+.maindiv{background-color:white; color:black; width:300px;
+padding:20px; border-radius:25px; margin:0 auto; }
+mark {
+  background-color: yellow;
+}
+
+>>>>>>> 188bb9f30c033e617d5b4e67546bd33613276344
