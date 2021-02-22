@@ -10,6 +10,7 @@ function compute()
     {
         alert("Enter a positive number.");
         document.getElementById("principal").focus();
+        return;
     }
 
     // make years numeric
